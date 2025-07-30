@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>This is Modified Login page</h2>
+	<h2>This is service page</h2>
 	<a href="index.jsp">index_page</a>
 </body>
 </html>

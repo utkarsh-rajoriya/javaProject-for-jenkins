@@ -13,5 +13,7 @@
 		
 	%>
 	age is :<%=j%>
+	<br>
+	<a href="index.jsp">index_page</a>
 </body>
 </html>
